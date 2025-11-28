@@ -32,7 +32,7 @@ const Login: React.FC = () => {
               <Card.Body>
                 <div className="text-center mb-3">
                   <img
-                    src="/assets/ina17-logo.png"
+                    src="/assets/indonesia-logo.png"
                     alt="INA17 Logo"
                     style={{ maxWidth: "120px", height: "auto" }}
                   />

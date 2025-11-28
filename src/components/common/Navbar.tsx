@@ -15,7 +15,7 @@ const NavbarComp = () => {
         <Navbar.Brand href="#home">
           <img
             // src={process.env.PUBLIC_URL + "/assets/bg-jkt.jpg"}
-            src="/assets/ina17-logo.png"
+            src="/assets/indonesia-logo.png"
             alt="MyBrand Logo"
             style={{ height: "40px" }}
           />
